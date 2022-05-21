@@ -14,4 +14,4 @@ For Windows Operation system, in order to get the result of comparison among **N
 
 After fixing these two bugs, code should run without errors.
 
-For Mac Operation system, although it is probably that fail to run ``MCOSDemo.ipynb``, source code of mcos are available。
+For Mac Operation system, although it is probably that fail to run ``MCOSDemo.ipynb``, source code of mcos are available.
